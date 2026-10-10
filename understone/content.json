@@ -1,0 +1,185 @@
+{
+  "en": {
+    "updated": "Last updated: October 10, 2026",
+    "language": "Language",
+    "support": "App Support",
+    "privacy": "Privacy Policy",
+    "operator": "Understone by IdeaSpike. Contact:",
+    "sections": {
+      "support": [
+        [
+          "Plan each dig",
+          "Tap an unexplored cell to reveal it. Opening a gem spends its mining cost immediately. Tap the mined gem again to collect it for free and earn XP. Empty cells and clue numbers are free; a clue adds the mining costs in its eight neighboring cells. Red warning marks count neighboring lethal mines."
+        ],
+        [
+          "Recover stamina and keep exploring",
+          "Stamina may reach zero. Eat a revealed hamburger when you need a full refill, or upgrade manually after earning enough XP. Restarting a failed floor creates a fresh map and restores that floor’s entry state. The interactive practice tutorial is available when starting a new game and from the in-game help page."
+        ],
+        [
+          "Free opening and full expedition",
+          "The opening district has three free floors and a camp shop. Leaving that first camp opens the one-time Unlock all field sites purchase. The unlock covers the remaining campaign across eight districts and 24 floors, with no subscription. Apple displays the price in your App Store currency. Camp items use earned game coins, not real money."
+        ],
+        [
+          "Purchase and restore help",
+          "Purchases are processed by Apple. Use Restore purchases on the unlock page with the same Apple Account that made the purchase. A pending purchase unlocks after Apple confirms it; canceling preserves your progress. If prices or purchases are unavailable, check your connection, retry, and contact us if the issue continues. Do not buy again to resolve an existing purchase. Apple refund requests are handled at reportaproblem.apple.com."
+        ],
+        [
+          "Progress and sound",
+          "Load Progress resumes the expedition saved on this device. New Game replaces the current expedition; completed local scores and sound settings remain. Settings lets you adjust music and effects or return to the main menu. This release has local scores and no online account or developer-operated cloud sync. Device backups are controlled by Apple and your settings."
+        ],
+        [
+          "Contact support",
+          "Email support@ideaspike.com with the app version, device, iOS version and a short description of the problem. Do not send passwords, full payment details or unnecessary personal information. TestFlight transactions use Apple’s sandbox and do not charge real money."
+        ]
+      ],
+      "privacy": [
+        [
+          "The app and your data",
+          "Understone is a mineral-deduction game. It does not require an app account. We do not collect or send your gameplay, progress, local scores or sound settings to IdeaSpike servers, and we do not use advertising, tracking or third-party analytics in the app."
+        ],
+        [
+          "Information on your device",
+          "The app saves your current expedition, discovered specimens, completed local scores and sound settings in its local storage. New Game replaces the current expedition but retains completed scores and sound settings. Deleting the app removes its local app data; copies may remain in device backups managed by Apple. The app does not operate cross-device synchronization."
+        ],
+        [
+          "Apple purchases",
+          "Apple processes the one-time full-expedition purchase. The app receives product, storefront and verified transaction information from StoreKit to display the local price, check your unlock and restore it. We do not receive your payment-card details or Apple Account password, and the app does not send transaction information to an IdeaSpike server. Apple’s own privacy terms govern its purchase processing."
+        ],
+        [
+          "Optional external links",
+          "Geological research, music credits, support and privacy links open external pages only when you choose them. Those websites and your browser may process information under their own privacy policies. The app does not automatically upload your expedition when opening a link."
+        ],
+        [
+          "Your choices and questions",
+          "You can play the opening district without making a purchase, adjust sound settings, replace the current expedition or remove the app. Purchases and refunds are managed through Apple. Email support@ideaspike.com for privacy questions; any information you choose to send in a support email is used to respond to your request. Do not include passwords or payment-card details."
+        ],
+        [
+          "Policy updates",
+          "This policy describes the current release. We will update it if the app’s data practices change."
+        ]
+      ]
+    }
+  },
+  "zh-Hans": {
+    "updated": "更新日期：2026年10月10日",
+    "language": "语言",
+    "support": "应用支持",
+    "privacy": "隐私政策",
+    "operator": "Understone 由 IdeaSpike 提供。联系：",
+    "sections": {
+      "support": [
+        [
+          "规划每次采集",
+          "点击未探索的格子进行探索。打开宝石格时立即扣除采集所需精力，再点一次可免费收集宝石并获得经验。空格和提示数字不消耗精力；数字表示周围八个格子的采集消耗总和。红色警示标记的数量表示周围地雷的数量。"
+        ],
+        [
+          "恢复精力，继续探险",
+          "精力可以降到零。在需要恢复时吃已发现的汉堡，可以补满精力；经验足够时也可手动升级。失败后重试会生成新地图，并恢复当前小关进入时的状态。新游戏和游戏内帮助页面都提供交互式练习导览。"
+        ],
+        [
+          "免费开局与完整探险",
+          "第一个矿区包含三个免费小关和营地商店。离开第一个营地时，可通过一次性购买“解锁全部矿区”继续后续探险。完整探险包含八个矿区、24个小关，无需订阅。Apple 按你的 App Store 地区显示当地货币价格。营地商品使用游戏中获得的金币购买。"
+        ],
+        [
+          "购买与恢复",
+          "购买由 Apple 处理。在解锁页面使用“恢复购买”，并登录原先购买时使用的 Apple 账户。等待批准的购买将在 Apple 确认后解锁；取消购买会保留进度。价格或购买不可用时，请检查网络后重试，仍有问题可联系我们。请勿重复购买来解决已有交易问题。退款申请由 reportaproblem.apple.com 处理。"
+        ],
+        [
+          "进度与声音",
+          "“读取进度”继续本设备上的存档。“新游戏”替换当前探险，但保留已完成的本地成绩和声音设置。设置可调整音乐、音效或返回主界面。本版本使用本地成绩，无应用账户或开发者提供的云同步。设备备份由 Apple 和你的系统设置管理。"
+        ],
+        [
+          "联系支持",
+          "请发送邮件至 support@ideaspike.com，说明应用版本、设备、iOS 版本和问题。请勿发送密码、完整付款资料或不必要的个人信息。TestFlight 交易使用 Apple 沙盒，不会产生真实扣款。"
+        ]
+      ],
+      "privacy": [
+        [
+          "应用与数据",
+          "Understone 是矿物推理游戏，无需应用账户。我们不会将游戏过程、进度、本地成绩或声音设置收集或发送到 IdeaSpike 服务器。应用不含广告、跟踪或第三方分析服务。"
+        ],
+        [
+          "设备上的信息",
+          "当前探险、已发现标本、已完成的本地成绩和声音设置保存在应用的本地存储中。“新游戏”替换当前探险，并保留完成成绩和声音设置。删除应用会删除其本地应用数据；Apple 管理的设备备份中可能仍有副本。应用不提供跨设备同步。"
+        ],
+        [
+          "Apple 购买",
+          "一次性完整探险购买由 Apple 处理。应用通过 StoreKit 接收商品、商店地区和已验证交易信息，用于显示当地价格、检查解锁状态和恢复购买。我们不会获得付款卡资料或 Apple 账户密码，应用也不会将交易信息发送至 IdeaSpike 服务器。Apple 的购买处理适用其自身隐私条款。"
+        ],
+        [
+          "可选外部链接",
+          "仅在你主动选择时，地质研究、音乐鸣谢、支持和隐私链接才会打开外部网页。这些网站和浏览器可能按各自的隐私政策处理信息。打开链接不会自动上传你的探险数据。"
+        ],
+        [
+          "选择与问题",
+          "你可以不购买而体验第一个矿区，也可调整声音、替换当前探险或移除应用。购买和退款由 Apple 管理。隐私问题可发送至 support@ideaspike.com；你主动提供的支持邮件信息仅用于回复请求。请勿包含密码或付款卡资料。"
+        ],
+        [
+          "政策更新",
+          "本政策描述当前版本。若应用的数据处理方式变化，我们会更新此政策。"
+        ]
+      ]
+    }
+  },
+  "zh-Hant": {
+    "updated": "更新日期：2026年10月10日",
+    "language": "語言",
+    "support": "應用程式支援",
+    "privacy": "隱私政策",
+    "operator": "Understone 由 IdeaSpike 提供。聯絡：",
+    "sections": {
+      "support": [
+        [
+          "規劃每次採集",
+          "點擊未探索的格子進行探索。打開寶石格時立即扣除採集所需精力，再點一次可免費收集寶石並獲得經驗。空格和提示數字不消耗精力；數字表示周圍八個格子的採集消耗總和。紅色警示標記的數量表示周圍地雷的數量。"
+        ],
+        [
+          "恢復精力，繼續探險",
+          "精力可以降到零。在需要恢復時吃已發現的漢堡，可以補滿精力；經驗足夠時也可手動升級。失敗後重試會產生新地圖，並恢復目前小關進入時的狀態。新遊戲和遊戲內說明頁面都提供互動式練習導覽。"
+        ],
+        [
+          "免費開局與完整探險",
+          "第一個礦區包含三個免費小關和營地商店。離開第一個營地時，可透過一次性購買「解鎖全部礦區」繼續後續探險。完整探險包含八個礦區、24個小關，無需訂閱。Apple 按你的 App Store 地區顯示當地貨幣價格。營地商品使用遊戲中獲得的金幣購買。"
+        ],
+        [
+          "購買與恢復",
+          "購買由 Apple 處理。在解鎖頁面使用「恢復購買」，並登入原先購買時使用的 Apple 帳號。等待批准的購買將在 Apple 確認後解鎖；取消購買會保留進度。價格或購買不可用時，請檢查網路後重試，仍有問題可聯絡我們。請勿重複購買來解決已有交易問題。退款申請由 reportaproblem.apple.com 處理。"
+        ],
+        [
+          "進度與聲音",
+          "「讀取進度」繼續本裝置上的存檔。「新遊戲」替換目前探險，但保留已完成的本機成績和聲音設定。設定可調整音樂、音效或返回主畫面。本版本使用本機成績，無應用帳號或開發者提供的雲端同步。裝置備份由 Apple 和你的系統設定管理。"
+        ],
+        [
+          "聯絡支援",
+          "請傳送郵件至 support@ideaspike.com，說明應用版本、裝置、iOS 版本和問題。請勿傳送密碼、完整付款資料或不必要的個人資訊。TestFlight 交易使用 Apple 沙盒，不會產生真實扣款。"
+        ]
+      ],
+      "privacy": [
+        [
+          "應用與資料",
+          "Understone 是礦物推理遊戲，無需應用帳號。我們不會將遊戲過程、進度、本機成績或聲音設定收集或傳送到 IdeaSpike 伺服器。應用不含廣告、追蹤或第三方分析服務。"
+        ],
+        [
+          "裝置上的資訊",
+          "目前探險、已發現標本、已完成的本機成績和聲音設定保存在應用的本機儲存中。「新遊戲」替換目前探險，並保留完成成績和聲音設定。刪除應用會刪除其本機應用資料；Apple 管理的裝置備份中可能仍有副本。應用不提供跨裝置同步。"
+        ],
+        [
+          "Apple 購買",
+          "一次性完整探險購買由 Apple 處理。應用透過 StoreKit 接收商品、商店地區和已驗證交易資訊，用於顯示當地價格、檢查解鎖狀態和恢復購買。我們不會取得付款卡資料或 Apple 帳號密碼，應用也不會將交易資訊傳送至 IdeaSpike 伺服器。Apple 的購買處理適用其自身隱私條款。"
+        ],
+        [
+          "可選外部連結",
+          "僅在你主動選擇時，地質研究、音樂鳴謝、支援和隱私連結才會打開外部網頁。這些網站和瀏覽器可能按各自的隱私政策處理資訊。打開連結不會自動上傳你的探險資料。"
+        ],
+        [
+          "選擇與問題",
+          "你可以不購買而體驗第一個礦區，也可調整聲音、替換目前探險或移除應用。購買和退款由 Apple 管理。隱私問題可傳送至 support@ideaspike.com；你主動提供的支援郵件資訊僅用於回覆請求。請勿包含密碼或付款卡資料。"
+        ],
+        [
+          "政策更新",
+          "本政策描述目前版本。若應用的資料處理方式變化，我們會更新此政策。"
+        ]
+      ]
+    }
+  }
+}
