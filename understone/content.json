@@ -1,6 +1,6 @@
 {
   "en": {
-    "updated": "Last updated: October 10, 2026",
+    "updated": "Last updated: October 11, 2026",
     "language": "Language",
     "support": "App Support",
     "privacy": "Privacy Policy",
@@ -21,7 +21,7 @@
         ],
         [
           "Purchase and restore help",
-          "Purchases are processed by Apple. Use Restore purchases on the unlock page with the same Apple Account that made the purchase. A pending purchase unlocks after Apple confirms it; canceling preserves your progress. If prices or purchases are unavailable, check your connection, retry, and contact us if the issue continues. Do not buy again to resolve an existing purchase. Apple refund requests are handled at reportaproblem.apple.com."
+          "Purchases are processed by Apple. Use Restore purchases on the unlock page with the eligible Apple Account. Restoration verifies full-game access; it does not restore a deleted expedition. A pending purchase unlocks only after a valid Apple transaction is verified; canceling preserves your progress. Review a changed price or currency before confirming a new offer. If prices or purchases are unavailable, check your connection, retry, and contact us if the issue continues. Do not buy again to resolve an existing purchase. Apple refund requests are handled at reportaproblem.apple.com, subject to eligibility and applicable law."
         ],
         [
           "Progress and sound",
@@ -39,7 +39,7 @@
         ],
         [
           "Information on your device",
-          "The app saves your current expedition, discovered specimens, completed local scores and sound settings in its local storage. New Game replaces the current expedition but retains completed scores and sound settings. Deleting the app removes its local app data; copies may remain in device backups managed by Apple. The app does not operate cross-device synchronization."
+          "The app saves your current expedition, discovered specimens, completed local scores and sound settings in its local storage. New Game replaces the current expedition but retains completed scores and sound settings. Deleting the app removes its local app data; copies may remain in device backups managed by Apple. The app does not operate cross-device synchronization. IDEASpike cannot remotely recover or delete these local files or your device backups; backup availability and restoration depend on your Apple/device settings."
         ],
         [
           "Apple purchases",
@@ -51,7 +51,7 @@
         ],
         [
           "Your choices and questions",
-          "You can play the opening district without making a purchase, adjust sound settings, replace the current expedition or remove the app. Purchases and refunds are managed through Apple. Email support@ideaspike.com for privacy questions; any information you choose to send in a support email is used to respond to your request. Do not include passwords or payment-card details."
+          "You can play the opening district without making a purchase, adjust sound settings, replace the current expedition or remove the app. Purchases and refunds are managed through Apple. Email support@ideaspike.com for privacy questions; any information you choose to send in a support email is used to respond to your request. Do not include passwords or payment-card details. Applicable privacy rights remain available."
         ],
         [
           "Policy updates",
@@ -61,7 +61,7 @@
     }
   },
   "zh-Hans": {
-    "updated": "更新日期：2026年10月10日",
+    "updated": "更新日期：2026年10月11日",
     "language": "语言",
     "support": "应用支持",
     "privacy": "隐私政策",
@@ -82,7 +82,7 @@
         ],
         [
           "购买与恢复",
-          "购买由 Apple 处理。在解锁页面使用“恢复购买”，并登录原先购买时使用的 Apple 账户。等待批准的购买将在 Apple 确认后解锁；取消购买会保留进度。价格或购买不可用时，请检查网络后重试，仍有问题可联系我们。请勿重复购买来解决已有交易问题。退款申请由 reportaproblem.apple.com 处理。"
+          "购买由 Apple 处理。在解锁页面使用“恢复购买”，并登录符合条件的 Apple 账户。恢复购买验证完整游戏权益，不会恢复已删除的探险。等待批准的购买仅在有效 Apple 交易通过验证后解锁；取消购买会保留进度。金额或币种改变时，请先查看新报价再确认。价格或购买不可用时，请检查网络后重试，仍有问题可联系我们。请勿重复购买来解决已有交易问题。退款可在 reportaproblem.apple.com 申请，是否符合条件取决于 Apple 政策和适用法律。"
         ],
         [
           "进度与声音",
@@ -100,7 +100,7 @@
         ],
         [
           "设备上的信息",
-          "当前探险、已发现标本、已完成的本地成绩和声音设置保存在应用的本地存储中。“新游戏”替换当前探险，并保留完成成绩和声音设置。删除应用会删除其本地应用数据；Apple 管理的设备备份中可能仍有副本。应用不提供跨设备同步。"
+          "当前探险、已发现标本、已完成的本地成绩和声音设置保存在应用的本地存储中。“新游戏”替换当前探险，并保留完成成绩和声音设置。删除应用会删除其本地应用数据；Apple 管理的设备备份中可能仍有副本。应用不提供跨设备同步。IDEASpike 无法远程恢复或删除这些本地文件及设备备份；备份是否可用及能否恢复取决于你的 Apple 或设备设置。"
         ],
         [
           "Apple 购买",
@@ -112,7 +112,7 @@
         ],
         [
           "选择与问题",
-          "你可以不购买而体验第一个矿区，也可调整声音、替换当前探险或移除应用。购买和退款由 Apple 管理。隐私问题可发送至 support@ideaspike.com；你主动提供的支持邮件信息仅用于回复请求。请勿包含密码或付款卡资料。"
+          "你可以不购买而体验第一个矿区，也可调整声音、替换当前探险或移除应用。购买和退款由 Apple 管理。隐私问题可发送至 support@ideaspike.com；你主动提供的支持邮件信息仅用于回复请求。请勿包含密码或付款卡资料。适用的隐私权利仍然有效。"
         ],
         [
           "政策更新",
@@ -122,7 +122,7 @@
     }
   },
   "zh-Hant": {
-    "updated": "更新日期：2026年10月10日",
+    "updated": "更新日期：2026年10月11日",
     "language": "語言",
     "support": "應用程式支援",
     "privacy": "隱私政策",
@@ -143,7 +143,7 @@
         ],
         [
           "購買與恢復",
-          "購買由 Apple 處理。在解鎖頁面使用「恢復購買」，並登入原先購買時使用的 Apple 帳號。等待批准的購買將在 Apple 確認後解鎖；取消購買會保留進度。價格或購買不可用時，請檢查網路後重試，仍有問題可聯絡我們。請勿重複購買來解決已有交易問題。退款申請由 reportaproblem.apple.com 處理。"
+          "購買由 Apple 處理。在解鎖頁面使用「恢復購買」，並登入符合條件的 Apple 帳號。恢復購買驗證完整遊戲權益，不會復原已刪除的探險。等待批准的購買僅在有效 Apple 交易通過驗證後解鎖；取消購買會保留進度。金額或幣別改變時，請先查看新報價再確認。價格或購買不可用時，請檢查網路後重試，仍有問題可聯絡我們。請勿重複購買來解決已有交易問題。退款可在 reportaproblem.apple.com 申請，是否符合條件取決於 Apple 政策和適用法律。"
         ],
         [
           "進度與聲音",
@@ -161,7 +161,7 @@
         ],
         [
           "裝置上的資訊",
-          "目前探險、已發現標本、已完成的本機成績和聲音設定保存在應用的本機儲存中。「新遊戲」替換目前探險，並保留完成成績和聲音設定。刪除應用會刪除其本機應用資料；Apple 管理的裝置備份中可能仍有副本。應用不提供跨裝置同步。"
+          "目前探險、已發現標本、已完成的本機成績和聲音設定保存在應用的本機儲存中。「新遊戲」替換目前探險，並保留完成成績和聲音設定。刪除應用會刪除其本機應用資料；Apple 管理的裝置備份中可能仍有副本。應用不提供跨裝置同步。IDEASpike 無法遠端復原或刪除這些本機檔案及裝置備份；備份是否可用及能否復原取決於你的 Apple 或裝置設定。"
         ],
         [
           "Apple 購買",
@@ -173,7 +173,7 @@
         ],
         [
           "選擇與問題",
-          "你可以不購買而體驗第一個礦區，也可調整聲音、替換目前探險或移除應用。購買和退款由 Apple 管理。隱私問題可傳送至 support@ideaspike.com；你主動提供的支援郵件資訊僅用於回覆請求。請勿包含密碼或付款卡資料。"
+          "你可以不購買而體驗第一個礦區，也可調整聲音、替換目前探險或移除應用。購買和退款由 Apple 管理。隱私問題可傳送至 support@ideaspike.com；你主動提供的支援郵件資訊僅用於回覆請求。請勿包含密碼或付款卡資料。適用的隱私權利仍然有效。"
         ],
         [
           "政策更新",
