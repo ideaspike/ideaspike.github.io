@@ -1,6 +1,6 @@
 {
   "en": {
-    "updated": "Last updated: October 12, 2026",
+    "updated": "Last updated: October 14, 2026",
     "language": "Language",
     "support": "App Support",
     "privacy": "Privacy Policy",
@@ -29,7 +29,7 @@
         ],
         [
           "Contact support",
-          "Email support@ideaspike.com with the app version, device, iOS version and a short description of the problem. Do not send passwords, full payment details or unnecessary personal information. TestFlight transactions use Apple’s sandbox and do not charge real money."
+          "Email support@ideaspike.com with the app version, device, iOS version and a short description of the problem. Do not send passwords, full payment details or unnecessary personal information."
         ]
       ],
       "privacy": [
@@ -43,7 +43,7 @@
         ],
         [
           "Apple purchases",
-          "Apple processes the one-time full-expedition purchase. The app receives product, storefront and verified transaction information from StoreKit to display the local price, check your unlock and restore it. We do not receive your payment-card details or Apple Account password, and the app does not send transaction information to an IDEASpike server. Apple’s own privacy terms govern its purchase processing."
+          "Apple processes the one-time full-expedition purchase. The app receives product, storefront and verified transaction information from Apple to display the local price, check your unlock and restore it. We do not receive your payment-card details or Apple Account password, and the app does not send transaction information to an IDEASpike server. Apple’s own privacy terms govern its purchase processing."
         ],
         [
           "Optional external links",
@@ -61,7 +61,7 @@
     }
   },
   "zh-Hans": {
-    "updated": "更新日期：2026年10月12日",
+    "updated": "更新日期：2026年10月14日",
     "language": "语言",
     "support": "应用支持",
     "privacy": "隐私政策",
@@ -90,7 +90,7 @@
         ],
         [
           "联系支持",
-          "请发送邮件至 support@ideaspike.com，说明应用版本、设备、iOS 版本和问题。请勿发送密码、完整付款资料或不必要的个人信息。TestFlight 交易使用 Apple 沙盒，不会产生真实扣款。"
+          "请发送邮件至 support@ideaspike.com，说明应用版本、设备、iOS 版本和问题。请勿发送密码、完整付款资料或不必要的个人信息。"
         ]
       ],
       "privacy": [
@@ -104,7 +104,7 @@
         ],
         [
           "Apple 购买",
-          "一次性完整探险购买由 Apple 处理。应用通过 StoreKit 接收商品、商店地区和已验证交易信息，用于显示当地价格、检查解锁状态和恢复购买。我们不会获得付款卡资料或 Apple 账户密码，应用也不会将交易信息发送至 IDEASpike 服务器。Apple 的购买处理适用其自身隐私条款。"
+          "一次性完整探险购买由 Apple 处理。应用从 Apple 接收商品、商店地区和已验证交易信息，用于显示当地价格、检查解锁状态和恢复购买。我们不会获得付款卡资料或 Apple 账户密码，应用也不会将交易信息发送至 IDEASpike 服务器。Apple 的购买处理适用其自身隐私条款。"
         ],
         [
           "可选外部链接",
@@ -122,7 +122,7 @@
     }
   },
   "zh-Hant": {
-    "updated": "更新日期：2026年10月12日",
+    "updated": "更新日期：2026年10月14日",
     "language": "語言",
     "support": "應用程式支援",
     "privacy": "隱私政策",
@@ -151,7 +151,7 @@
         ],
         [
           "聯絡支援",
-          "請傳送郵件至 support@ideaspike.com，說明應用版本、裝置、iOS 版本和問題。請勿傳送密碼、完整付款資料或不必要的個人資訊。TestFlight 交易使用 Apple 沙盒，不會產生真實扣款。"
+          "請傳送郵件至 support@ideaspike.com，說明應用版本、裝置、iOS 版本和問題。請勿傳送密碼、完整付款資料或不必要的個人資訊。"
         ]
       ],
       "privacy": [
@@ -165,7 +165,7 @@
         ],
         [
           "Apple 購買",
-          "一次性完整探險購買由 Apple 處理。應用透過 StoreKit 接收商品、商店地區和已驗證交易資訊，用於顯示當地價格、檢查解鎖狀態和恢復購買。我們不會取得付款卡資料或 Apple 帳號密碼，應用也不會將交易資訊傳送至 IDEASpike 伺服器。Apple 的購買處理適用其自身隱私條款。"
+          "一次性完整探險購買由 Apple 處理。應用從 Apple 接收商品、商店地區和已驗證交易資訊，用於顯示當地價格、檢查解鎖狀態和恢復購買。我們不會取得付款卡資料或 Apple 帳號密碼，應用也不會將交易資訊傳送至 IDEASpike 伺服器。Apple 的購買處理適用其自身隱私條款。"
         ],
         [
           "可選外部連結",
